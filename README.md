@@ -8,3 +8,18 @@ Solving one of the biggest marketing problems for coffee shops, customer prefere
 - This project applies data analytics and machine learning to identify which coffee shop products generate the most revenue by season and to recommend actionable marketing strategies based on predictive insights.
 
 - The goal was to transform transactional sales data into decision-making tools that support revenue growth and smarter advertising.
+
+
+│
+├── README.md   ⭐ (MOST IMPORTANT FILE)
+├── data/
+│   └── coffee_sales.csv
+├── notebooks/
+│   └── Coffee_Analysis.ipynb
+├── visuals/
+│   ├── heatmap.png
+│   ├── seasonal_products.png
+│   └── predictions.png
+├── business_report/
+│   └── Coffee Sales Analysis.docx
+└── requirements.txt
