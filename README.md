@@ -82,7 +82,8 @@ Python · Pandas · Scikit-learn · Data Visualization · Machine Learning · Bu
 
 ## Author
 
-Reem Anwar
-Data Analytics | Marketing Analytics | Business Intelligence
+__Reem Anwar__
+
+*Data Analytics | Marketing Analytics | Business Intelligence*
 
 
