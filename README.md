@@ -51,8 +51,8 @@ Detailed analysis and recommendations are available in the project reports.
 
 ## Repository Structure
 
-* [Data] (data/) — raw and prepared datasets
-* [Notebooks](notebooks/) - full analysis and modeling workflow
+* [Data](data/) — raw and prepared datasets
+* [Notebooks](notebooks/[Coffee Analysis.ipynb]) - full analysis and modeling workflow
 * [Visualizations](visuals/) - charts and model outputs used in analysis
 * [Reports](reports/) - business report and executive summary
 
