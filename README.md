@@ -51,14 +51,12 @@ Detailed analysis and recommendations are available in the project reports.
 
 ## Repository Structure
 
-* `data/` — raw and prepared datasets
-* `notebooks/` — full analysis and modeling workflow
-* `visuals/` — charts and model outputs used in analysis
-* `reports/` — business report and executive summary
+* [Data] (data/) — raw and prepared datasets
+* [Notebooks](notebooks/) - full analysis and modeling workflow
+* [Visualizations](visuals/) - charts and model outputs used in analysis
+* [Reports](reports/) - business report and executive summary
 
-Example visualization:
 
-![Seasonal Product Performance](visuals/seasonal_products.png)
 
 ---
 
