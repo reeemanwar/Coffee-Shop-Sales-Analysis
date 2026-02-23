@@ -20,6 +20,16 @@ Retail businesses frequently promote products based on intuition rather than evi
 
 ---
 
+## Executive Takeaways
+
+If implemented, this analysis suggests the business could:
+
+- Increase seasonal promotion effectiveness by focusing on top-performing products before demand peaks.
+- Improve slow-hour revenue through bundled drink and pastry offers identified in spring data.
+- Use predictive modeling (91.7% accuracy) to guide marketing decisions instead of intuition.
+  
+---
+
 ## Methodology
 
 The workflow followed a standard analytics pipeline:
@@ -56,17 +66,11 @@ Detailed analysis and recommendations are available in the project reports.
 * [Visualizations](visuals/) - charts and model outputs used in analysis
 * [Reports](reports/) - business report and executive summary
 
-
-
 ---
 
 ## Business Relevance
 
-This project demonstrates how analytics can support operational and marketing decisions by:
-
-* aligning promotions with seasonal demand
-* improving product positioning
-* supporting data-driven planning rather than intuition-based decisions
+This project demonstrates how analytics can support everyday business decisions by aligning promotions with customer behavior and seasonal demand. The analysis illustrates how predictive modeling can help businesses plan marketing strategies proactively rather than reacting to past performance.
 
 ---
 
