@@ -64,9 +64,9 @@ Detailed analysis and recommendations are available in the project reports.
 
 This project demonstrates how analytics can support operational and marketing decisions by:
 
-* aligning promotions with seasonal demand,
-* improving product positioning,
-* supporting data-driven planning rather than intuition-based decisions.
+* aligning promotions with seasonal demand
+* improving product positioning
+* supporting data-driven planning rather than intuition-based decisions
 
 ---
 
