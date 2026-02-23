@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analytics & Seasonal Marketing Strategy
+# Cafè Sales Analytics & Seasonal Marketing Strategy
 
 Solving one of the biggest marketing problems for coffee shops, customer preferences based on seasonality and trends. This project uses data to explore insights and provide marketing recommendations for and NYC coffee shop.
 
@@ -52,7 +52,7 @@ Detailed analysis and recommendations are available in the project reports.
 ## Repository Structure
 
 * [Data](data/) — raw and prepared datasets
-* [Notebooks](notebooks/[Coffee Analysis.ipynb]) - full analysis and modeling workflow
+* [Notebooks](notebooks/) - full analysis and modeling workflow
 * [Visualizations](visuals/) - charts and model outputs used in analysis
 * [Reports](reports/) - business report and executive summary
 
