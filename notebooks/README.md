@@ -1,1 +1,1 @@
-IPYNB notebook to display all codes and outputs used in this project.
+IPYNB notebook to display all codes and outputs generated in this project.
