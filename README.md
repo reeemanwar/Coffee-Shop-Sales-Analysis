@@ -10,16 +10,4 @@ Solving one of the biggest marketing problems for coffee shops, customer prefere
 - The goal was to transform transactional sales data into decision-making tools that support revenue growth and smarter advertising.
 
 
-│
-├── README.md   ⭐ (MOST IMPORTANT FILE)
-├── data/
-│   └── coffee_sales.csv
-├── notebooks/
-│   └── Coffee_Analysis.ipynb
-├── visuals/
-│   ├── heatmap.png
-│   ├── seasonal_products.png
-│   └── predictions.png
-├── business_report/
-│   └── Coffee Sales Analysis.docx
-└── requirements.txt
+
